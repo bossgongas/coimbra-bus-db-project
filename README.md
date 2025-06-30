@@ -8,7 +8,7 @@ This project was developed for the **Databases** course (2023),
 
 ## 🎯 Objective
 
-Develop a fully functional database-backed application in Python to manage the operations of **Coimbra Bus**, a public transport company based in Coimbra.
+Develop a fully functional database-backed application in Python to manage the operations of **Coimbra Bus**, a fictional public transport company based in Coimbra.
 
 The system supports the management of:
 - Clients (normal and gold)
